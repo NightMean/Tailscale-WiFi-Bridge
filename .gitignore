@@ -1,0 +1,15 @@
+# Scratch and temporary files
+.scratch/
+*.log
+*.tmp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
